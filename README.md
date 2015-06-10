@@ -6,7 +6,7 @@ Can be useful to try your endpoint and see the result return by your server.
 
 ###GET
 
-get on the main page:
+- get on the main page:
 
 curl https://ancient-bayou-3544.herokuapp.com
 
@@ -31,7 +31,7 @@ curl https://ancient-bayou-3544.herokuapp.com
 </html>
 ```
 
-get on the endpoint /main of the application
+- get on the endpoint /main of the application
 
 curl https://ancient-bayou-3544.herokuapp.com/main
 
