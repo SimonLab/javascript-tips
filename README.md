@@ -44,7 +44,7 @@ curl --data "quack='a new quack' https://ancient-bayou-3544.herokuapp.com/main
 
 application broken!
 
-To avoid some weird information to be recorded in your database or applicatin you need to check the data on the server side and not only on the front-end!!
+**To avoid some weird information to be recorded in your database or applicatin you need to check the data on the server side and not only on the front-end!!**
 
 
 
