@@ -40,7 +40,7 @@ curl https://ancient-bayou-3544.herokuapp.com/main
 
 ###POST (and break the application)
 
-curl --data "quack='a new quack' https://ancient-bayou-3544.herokuapp.com/main
+curl --data "quack='break everything!!!'" https://ancient-bayou-3544.herokuapp.com/main
 
 application broken!
 
