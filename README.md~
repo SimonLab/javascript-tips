@@ -1,0 +1,9 @@
+# Immediately-Invoked Function Expression
+
+It looks like:
+
+```javascript
+(function(){
+  //do some stuff
+})()//here we call our new anonymous function
+```
